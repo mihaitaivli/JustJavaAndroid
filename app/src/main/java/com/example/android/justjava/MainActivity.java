@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
     //this method is called when the button is clicked
     public void submitOrder(View view){
-        display(7);
+        display(2);
         displayPrice(2 * 5);
     }
 
